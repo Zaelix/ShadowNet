@@ -10,19 +10,10 @@ public class ShadowCore : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         aSource = GetComponent<AudioSource>();
-        //aSource.mute = false;
     }
 	
 	// Update is called once per frame
 	void Update () {
-        if (isMusicEnabled)
-        {
-            //aSource.mute = false;
-        }
-        else
-        {
-            //aSource.mute = true;
-        }
     }
 
     private void ToggleMusic()

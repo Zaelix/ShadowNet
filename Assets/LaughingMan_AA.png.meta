@@ -1,0 +1,3848 @@
+fileFormatVersion: 2
+guid: 515f21c85a453bc4296740c332982960
+timeCreated: 1506386875
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LaughingMan_AA_0
+    21300002: LaughingMan_AA_1
+    21300004: LaughingMan_AA_2
+    21300006: LaughingMan_AA_3
+    21300008: LaughingMan_AA_4
+    21300010: LaughingMan_AA_5
+    21300012: LaughingMan_AA_6
+    21300014: LaughingMan_AA_7
+    21300016: LaughingMan_AA_8
+    21300018: LaughingMan_AA_9
+    21300020: LaughingMan_AA_10
+    21300022: LaughingMan_AA_11
+    21300024: LaughingMan_AA_12
+    21300026: LaughingMan_AA_13
+    21300028: LaughingMan_AA_14
+    21300030: LaughingMan_AA_15
+    21300032: LaughingMan_AA_16
+    21300034: LaughingMan_AA_17
+    21300036: LaughingMan_AA_18
+    21300038: LaughingMan_AA_19
+    21300040: LaughingMan_AA_20
+    21300042: LaughingMan_AA_21
+    21300044: LaughingMan_AA_22
+    21300046: LaughingMan_AA_23
+    21300048: LaughingMan_AA_24
+    21300050: LaughingMan_AA_25
+    21300052: LaughingMan_AA_26
+    21300054: LaughingMan_AA_27
+    21300056: LaughingMan_AA_28
+    21300058: LaughingMan_AA_29
+    21300060: LaughingMan_AA_30
+    21300062: LaughingMan_AA_31
+    21300064: LaughingMan_AA_32
+    21300066: LaughingMan_AA_33
+    21300068: LaughingMan_AA_34
+    21300070: LaughingMan_AA_35
+    21300072: LaughingMan_AA_36
+    21300074: LaughingMan_AA_37
+    21300076: LaughingMan_AA_38
+    21300078: LaughingMan_AA_39
+    21300080: LaughingMan_AA_40
+    21300082: LaughingMan_AA_41
+    21300084: LaughingMan_AA_42
+    21300086: LaughingMan_AA_43
+    21300088: LaughingMan_AA_44
+    21300090: LaughingMan_AA_45
+    21300092: LaughingMan_AA_46
+    21300094: LaughingMan_AA_47
+    21300096: LaughingMan_AA_48
+    21300098: LaughingMan_AA_49
+    21300100: LaughingMan_AA_50
+    21300102: LaughingMan_AA_51
+    21300104: LaughingMan_AA_52
+    21300106: LaughingMan_AA_53
+    21300108: LaughingMan_AA_54
+    21300110: LaughingMan_AA_55
+    21300112: LaughingMan_AA_56
+    21300114: LaughingMan_AA_57
+    21300116: LaughingMan_AA_58
+    21300118: LaughingMan_AA_59
+    21300120: LaughingMan_AA_60
+    21300122: LaughingMan_AA_61
+    21300124: LaughingMan_AA_62
+    21300126: LaughingMan_AA_63
+    21300128: LaughingMan_AA_64
+    21300130: LaughingMan_AA_65
+    21300132: LaughingMan_AA_66
+    21300134: LaughingMan_AA_67
+    21300136: LaughingMan_AA_68
+    21300138: LaughingMan_AA_69
+    21300140: LaughingMan_AA_70
+    21300142: LaughingMan_AA_71
+    21300144: LaughingMan_AA_72
+    21300146: LaughingMan_AA_73
+    21300148: LaughingMan_AA_74
+    21300150: LaughingMan_AA_75
+    21300152: LaughingMan_AA_76
+    21300154: LaughingMan_AA_77
+    21300156: LaughingMan_AA_78
+    21300158: LaughingMan_AA_79
+    21300160: LaughingMan_AA_80
+    21300162: LaughingMan_AA_81
+    21300164: LaughingMan_AA_82
+    21300166: LaughingMan_AA_83
+    21300168: LaughingMan_AA_84
+    21300170: LaughingMan_AA_85
+    21300172: LaughingMan_AA_86
+    21300174: LaughingMan_AA_87
+    21300176: LaughingMan_AA_88
+    21300178: LaughingMan_AA_89
+    21300180: LaughingMan_AA_90
+    21300182: LaughingMan_AA_91
+    21300184: LaughingMan_AA_92
+    21300186: LaughingMan_AA_93
+    21300188: LaughingMan_AA_94
+    21300190: LaughingMan_AA_95
+    21300192: LaughingMan_AA_96
+    21300194: LaughingMan_AA_97
+    21300196: LaughingMan_AA_98
+    21300198: LaughingMan_AA_99
+    21300200: LaughingMan_AA_100
+    21300202: LaughingMan_AA_101
+    21300204: LaughingMan_AA_102
+    21300206: LaughingMan_AA_103
+    21300208: LaughingMan_AA_104
+    21300210: LaughingMan_AA_105
+    21300212: LaughingMan_AA_106
+    21300214: LaughingMan_AA_107
+    21300216: LaughingMan_AA_108
+    21300218: LaughingMan_AA_109
+    21300220: LaughingMan_AA_110
+    21300222: LaughingMan_AA_111
+    21300224: LaughingMan_AA_112
+    21300226: LaughingMan_AA_113
+    21300228: LaughingMan_AA_114
+    21300230: LaughingMan_AA_115
+    21300232: LaughingMan_AA_116
+    21300234: LaughingMan_AA_117
+    21300236: LaughingMan_AA_118
+    21300238: LaughingMan_AA_119
+    21300240: LaughingMan_AA_120
+    21300242: LaughingMan_AA_121
+    21300244: LaughingMan_AA_122
+    21300246: LaughingMan_AA_123
+    21300248: LaughingMan_AA_124
+    21300250: LaughingMan_AA_125
+    21300252: LaughingMan_AA_126
+    21300254: LaughingMan_AA_127
+    21300256: LaughingMan_AA_128
+    21300258: LaughingMan_AA_129
+    21300260: LaughingMan_AA_130
+    21300262: LaughingMan_AA_131
+    21300264: LaughingMan_AA_132
+    21300266: LaughingMan_AA_133
+    21300268: LaughingMan_AA_134
+    21300270: LaughingMan_AA_135
+    21300272: LaughingMan_AA_136
+    21300274: LaughingMan_AA_137
+    21300276: LaughingMan_AA_138
+    21300278: LaughingMan_AA_139
+    21300280: LaughingMan_AA_140
+    21300282: LaughingMan_AA_141
+    21300284: LaughingMan_AA_142
+    21300286: LaughingMan_AA_143
+    21300288: LaughingMan_AA_144
+    21300290: LaughingMan_AA_145
+    21300292: LaughingMan_AA_146
+    21300294: LaughingMan_AA_147
+    21300296: LaughingMan_AA_148
+    21300298: LaughingMan_AA_149
+    21300300: LaughingMan_AA_150
+    21300302: LaughingMan_AA_151
+    21300304: LaughingMan_AA_152
+    21300306: LaughingMan_AA_153
+    21300308: LaughingMan_AA_154
+    21300310: LaughingMan_AA_155
+    21300312: LaughingMan_AA_156
+    21300314: LaughingMan_AA_157
+    21300316: LaughingMan_AA_158
+    21300318: LaughingMan_AA_159
+    21300320: LaughingMan_AA_160
+    21300322: LaughingMan_AA_161
+    21300324: LaughingMan_AA_162
+    21300326: LaughingMan_AA_163
+    21300328: LaughingMan_AA_164
+    21300330: LaughingMan_AA_165
+    21300332: LaughingMan_AA_166
+    21300334: LaughingMan_AA_167
+    21300336: LaughingMan_AA_168
+    21300338: LaughingMan_AA_169
+    21300340: LaughingMan_AA_170
+    21300342: LaughingMan_AA_171
+    21300344: LaughingMan_AA_172
+    21300346: LaughingMan_AA_173
+    21300348: LaughingMan_AA_174
+    21300350: LaughingMan_AA_175
+    21300352: LaughingMan_AA_176
+    21300354: LaughingMan_AA_177
+    21300356: LaughingMan_AA_178
+    21300358: LaughingMan_AA_179
+    21300360: LaughingMan_AA_180
+    21300362: LaughingMan_AA_181
+    21300364: LaughingMan_AA_182
+    21300366: LaughingMan_AA_183
+    21300368: LaughingMan_AA_184
+    21300370: LaughingMan_AA_185
+    21300372: LaughingMan_AA_186
+    21300374: LaughingMan_AA_187
+    21300376: LaughingMan_AA_188
+    21300378: LaughingMan_AA_189
+    21300380: LaughingMan_AA_190
+    21300382: LaughingMan_AA_191
+    21300384: LaughingMan_AA_192
+    21300386: LaughingMan_AA_193
+    21300388: LaughingMan_AA_194
+    21300390: LaughingMan_AA_195
+    21300392: LaughingMan_AA_196
+    21300394: LaughingMan_AA_197
+    21300396: LaughingMan_AA_198
+    21300398: LaughingMan_AA_199
+    21300400: LaughingMan_AA_200
+    21300402: LaughingMan_AA_201
+    21300404: LaughingMan_AA_202
+    21300406: LaughingMan_AA_203
+    21300408: LaughingMan_AA_204
+    21300410: LaughingMan_AA_205
+    21300412: LaughingMan_AA_206
+    21300414: LaughingMan_AA_207
+    21300416: LaughingMan_AA_208
+    21300418: LaughingMan_AA_209
+    21300420: LaughingMan_AA_210
+    21300422: LaughingMan_AA_211
+    21300424: LaughingMan_AA_212
+    21300426: LaughingMan_AA_213
+    21300428: LaughingMan_AA_214
+    21300430: LaughingMan_AA_215
+    21300432: LaughingMan_AA_216
+    21300434: LaughingMan_AA_217
+    21300436: LaughingMan_AA_218
+    21300438: LaughingMan_AA_219
+    21300440: LaughingMan_AA_220
+    21300442: LaughingMan_AA_221
+    21300444: LaughingMan_AA_222
+    21300446: LaughingMan_AA_223
+    21300448: LaughingMan_AA_224
+    21300450: LaughingMan_AA_225
+    21300452: LaughingMan_AA_226
+    21300454: LaughingMan_AA_227
+    21300456: LaughingMan_AA_228
+    21300458: LaughingMan_AA_229
+    21300460: LaughingMan_AA_230
+    21300462: LaughingMan_AA_231
+    21300464: LaughingMan_AA_232
+    21300466: LaughingMan_AA_233
+    21300468: LaughingMan_AA_234
+    21300470: LaughingMan_AA_235
+    21300472: LaughingMan_AA_236
+    21300474: LaughingMan_AA_237
+    21300476: LaughingMan_AA_238
+    21300478: LaughingMan_AA_239
+    21300480: LaughingMan_AA_240
+    21300482: LaughingMan_AA_241
+    21300484: LaughingMan_AA_242
+    21300486: LaughingMan_AA_243
+    21300488: LaughingMan_AA_244
+    21300490: LaughingMan_AA_245
+    21300492: LaughingMan_AA_246
+    21300494: LaughingMan_AA_247
+    21300496: LaughingMan_AA_248
+    21300498: LaughingMan_AA_249
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaughingMan_AA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_1
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_2
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_3
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_4
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_5
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_6
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_7
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_8
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_9
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_10
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_11
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_12
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_13
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_14
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_15
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 9750
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_17
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_18
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_19
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_20
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_21
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_22
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_23
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_24
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_25
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_26
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_27
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_28
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_29
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_30
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_31
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 9100
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_34
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_35
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_36
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_37
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_38
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_39
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_40
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_41
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_42
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_43
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_44
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_45
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_46
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_47
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 8450
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_49
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_50
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_51
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_52
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_53
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_54
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_55
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_56
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_57
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_58
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_59
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_60
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_61
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_62
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_63
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 7800
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_65
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_66
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_67
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_68
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_69
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_70
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_71
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_72
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_73
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_74
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_75
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_76
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_77
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_78
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_79
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 7150
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_81
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_82
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_83
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_84
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_85
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_86
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_87
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_88
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_89
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_90
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_91
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_92
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_93
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_94
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_95
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 6500
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_97
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_98
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_99
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_100
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_101
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_102
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_103
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_104
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_105
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_106
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_107
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_108
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_109
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_110
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_111
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 5850
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_113
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_114
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_115
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_116
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_117
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_118
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_119
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_120
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_121
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_122
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_123
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_124
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_125
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_126
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_127
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 5200
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_129
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_130
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_131
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_132
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_133
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_134
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_135
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_136
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_137
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_138
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_139
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_140
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_141
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_142
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_143
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 4550
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_145
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_146
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_147
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_148
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_149
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_150
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_151
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_152
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_153
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_154
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_155
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_156
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_157
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_158
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_159
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 3900
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_161
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_162
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_163
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_164
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_165
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_166
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_167
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_168
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_169
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_170
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_171
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_172
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_173
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_174
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_175
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 3250
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_177
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_178
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_179
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_180
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_181
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_182
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_183
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_184
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_185
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_186
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_187
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_188
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_189
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_190
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_191
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 2600
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_193
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_194
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_195
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_196
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_197
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_198
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_199
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_200
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_201
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_202
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_203
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_204
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_205
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_206
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_207
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 1950
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_209
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_210
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_211
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_212
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_213
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_214
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_215
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_216
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_217
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_218
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_219
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_220
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_221
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_222
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_223
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 1300
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_225
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_226
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_227
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_228
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_229
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_230
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_231
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_232
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_233
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_234
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_235
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_236
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_237
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_238
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_239
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 650
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_241
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_242
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_243
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_244
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_245
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_246
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_247
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_248
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaughingMan_AA_249
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 0
+        width: 650
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

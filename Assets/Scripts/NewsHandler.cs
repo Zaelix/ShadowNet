@@ -12,6 +12,13 @@ public class NewsHandler : MonoBehaviour {
     NewsContainer newsCont;
     List<GameObject> newsPostObjects = new List<GameObject>();
 
+    // Dropdown objects
+    public Text startYear;
+    public Text startMonth;
+    public Text startDay;
+    public Text endYear;
+    public Text endMonth;
+    public Text endDay;
 
     // Sorting Criteria
     int currentDate = 20730214;
@@ -19,6 +26,8 @@ public class NewsHandler : MonoBehaviour {
     int endDate = 20751231;
     string searchTerms = "";
 
+    // Debug values
+    public Text debugText;
 
     Color lastColor = Color.gray;
     Color darkGray = new Color(0f, 0f, 0.6f, 1);
@@ -28,7 +37,7 @@ public class NewsHandler : MonoBehaviour {
         newsCont = NewsContainer.Load(path);
         foreach(NewsItem item in newsCont.newsItems)
         {
-            print(item.title);
+            //print(item.title);
         }
         LoadNewsList();
 	}
@@ -81,8 +90,24 @@ public class NewsHandler : MonoBehaviour {
         return fDate;
     }
 
+    public void UpdateSearchTerm(string term) {
+        searchTerms = term;
+    }
+
+    public void UpdateStartDate()
+    {
+        string date = startYear.text + startMonth.text + startDay.text;
+        int.TryParse(date, out startDate);
+    }
+
+    public void UpdateEndDate()
+    {
+        string date = endYear.text + endMonth.text + endDay.text;
+        int.TryParse(date, out endDate);
+    }
+
 	// Update is called once per frame
 	void Update () {
-        searchTerms = searchField.GetComponent<Text>().text;
+        debugText.text = currentDate.ToString() + "\r\n" + startDate.ToString() + "\r\n" + endDate.ToString();
 	}
 }

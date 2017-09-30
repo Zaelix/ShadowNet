@@ -79,10 +79,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\LaughingManLogo.cs" />
+    <Compile Include="Assets\Scripts\LoginHandler.cs" />
     <Compile Include="Assets\Scripts\NewsContainer.cs" />
     <Compile Include="Assets\Scripts\NewsHandler.cs" />
     <Compile Include="Assets\Scripts\NewsItem.cs" />
     <Compile Include="Assets\Scripts\ShadowCore.cs" />
+    <Compile Include="Assets\Scripts\User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\NewsPosts.xml" />

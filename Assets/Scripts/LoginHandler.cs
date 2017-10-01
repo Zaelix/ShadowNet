@@ -9,16 +9,14 @@ using System.Xml;
 using System.Xml.Serialization;
 using UnityEngine;
 
-[XmlRoot("UserCollection")]
-public class LoginHandler : MonoBehaviour {
 
-    [XmlArray("Users")]
-    [XmlArrayItem("User")]
-    public List<User> users = new List<User>();
+public class LoginHandler : MonoBehaviour {
+    public const string path = "Users";
+    UserContainer userCont;
 
     // Use this for initialization
     void Start () {
-		
+        userCont = UserContainer.Load(path);
 	}
 	
 	// Update is called once per frame
@@ -34,7 +32,7 @@ public class LoginHandler : MonoBehaviour {
         user.salt = Convert.ToBase64String(salt);
         user.iterations = 100;
         user.hash = Convert.ToBase64String(GenerateSaltedHash(Encoding.ASCII.GetBytes(pass), salt));
-        users.Add(user);
+        userCont.AddUser(user);
     }
 
     private static byte[] CreateSalt(int size)
@@ -69,12 +67,7 @@ public class LoginHandler : MonoBehaviour {
 
     public bool IsCorrectPassword(string name, string pass)
     {
-        User user = users.Find(
-            delegate (User us)
-            {
-                return us.userName == name;
-            }
-        );
+        User user = userCont.FindUserByName(name);
         if (CompareByteArrays(GenerateSaltedHash(Encoding.ASCII.GetBytes(pass), Encoding.ASCII.GetBytes(user.salt)), Encoding.ASCII.GetBytes(user.hash)))
         {
             return true;
@@ -98,26 +91,5 @@ public class LoginHandler : MonoBehaviour {
         }
 
         return true;
-    }
-
-    private void SaveUserDataToXML()
-    {
-        XmlWriter writer = XmlWriter.Create("Users.xml");
-        writer.WriteStartDocument();
-        writer.WriteStartElement("Users");
-        foreach (User user in users)
-        {
-            writer.WriteStartElement("User");
-
-            writer.WriteElementString("UserName", user.userName);
-            writer.WriteElementString("Iterations", user.iterations.ToString());
-            writer.WriteElementString("Salt", user.salt);
-            writer.WriteElementString("Hash", user.hash);
-
-            writer.WriteEndElement();
-        }
-
-        writer.WriteEndElement();
-        writer.WriteEndDocument();
     }
 }

@@ -6,10 +6,10 @@ using System.Xml.Serialization;
 [XmlRoot("Users")]
 public class User {
     [XmlAttribute("Username")]
-    public int userName;
+    public string userName;
 
     [XmlAttribute("Iterations")]
-    public string iterations;
+    public int iterations;
 
     [XmlAttribute("Salt")]
     public string salt;
